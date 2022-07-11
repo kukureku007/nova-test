@@ -1,0 +1,1 @@
+web: python backend/nova_test/manage.py runserver 80
